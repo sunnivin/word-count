@@ -13,6 +13,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
+A little test string
 ### Header 3
 
 - Bulleted
